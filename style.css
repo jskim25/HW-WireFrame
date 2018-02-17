@@ -23,6 +23,10 @@ header, nav, section, aside, footer {
     width: 90%
 }
 
+header {
+    margin-top: 10px;
+}
+
 .container {
     display: flex;
     justify-content: space-between;
